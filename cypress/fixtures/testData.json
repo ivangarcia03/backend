@@ -10,6 +10,12 @@
         "lastName": "Morel",
         "email": "esmeira@gmail.net",
         "dob": "1999-12-05"
+    },
+    "putPartialRequestBodyUpdate": {
+        "firstName": "Esmeira",
+        "lastName": "Morel",
+        "email": "esmeiraMorel02@gmail.com",
+        "dob": "1996-04-05"
     }
     
 }
